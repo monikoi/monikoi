@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there! I'm Monikoi
 
-<!--
-**monikoi/monikoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm Monica Hernandez Quiroz, an Information Technology student at Universidad Politécnica de San Luis Potosí.  
+💡 I love combining culture and technology in creative ways — from games to useful applications.  
+🖥️ I've built desktop apps with GUI in Java and C++, and even created a mythological gods game with database features!  
+🔧 Skills:  
+- Programming: C++, Java, Python, Ruby  
+- Web: HTML, CSS  
+- Databases: MySQL  
+- Tools: Visual Studio Code, NetBeans, GitHub  
 
-Here are some ideas to get you started:
+🚀 Currently learning more about backend systems and real-world software development.  
+✨ Looking for opportunities to grow and collaborate in the tech industry!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:  
+- Email: [hdzmoniq@gmail.com]  
+- GitHub: [github.com/monikoi](https://github.com/monikoi)
+
+---
+
+_“Let your creativity and code speak for who you are.”_
