@@ -1,3 +1,4 @@
+<img src="banner.png" alt="Monikoi Banner" style="width:100%;"/>
 # 👋 Hi there! I'm Monikoi
 
 🎓 I'm Monica Hernandez Quiroz, an Information Technology student at Universidad Politécnica de San Luis Potosí.  
