@@ -4,6 +4,7 @@
 🎓 I'm Monica Hernandez Quiroz, an Information Technology student at Universidad Politécnica de San Luis Potosí.  
 💡 I love combining culture and technology in creative ways — from games to useful applications.  
 🖥️ I've built desktop apps with GUI in Java, Python and C++.
+
 🔧 Skills:  
 - Programming: C++, Java, Python, Ruby  
 - Web: HTML, CSS  
